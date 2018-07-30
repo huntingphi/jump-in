@@ -1,6 +1,6 @@
 {
   "name": "@jethrojm/jump-in",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Jump-in automates the creation of folder structures for new projects and creates a new git repository with the option to set an existing remote repo as upstream",
   "main": "app.js",
   "scripts": {
