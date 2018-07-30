@@ -1,0 +1,37 @@
+{
+  "name": "@jethrojm/jump-in",
+  "version": "1.0.2",
+  "description": "Jump-in automates the creation of folder structures for new projects and creates a new git repository with the option to set an existing remote repo as upstream",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "jump-in": "./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlljet002/jump-in.git"
+  },
+  "keywords": [
+    "project",
+    "automation",
+    "folder",
+    "create",
+    "development",
+    "start",
+    "automate",
+    "automatic"
+  ],
+  "author": "Jethro Moller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mlljet002/jump-in/issues"
+  },
+  "homepage": "https://github.com/mlljet002/jump-in#readme",
+  "dependencies": {
+    "config-yml": "^0.10.2",
+    "js-yaml": "^3.12.0",
+    "readline-sync": "^1.4.9"
+  }
+}
