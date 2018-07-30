@@ -1,0 +1,11 @@
+CPP_DIRS:
+# - source: 
+- "./src"
+# - tests: 
+- "./test"
+# - bin: 
+- "./bin"
+# - header-files: 
+- "./include"
+# - build-files: 
+- "./build"
